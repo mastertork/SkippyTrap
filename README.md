@@ -13,7 +13,7 @@
 3.  Jumper wires to connect relay board to RPi
 
 ### Needed Software
-1.  Raspian OS installed on SD card
-2.  WiringPi
-3.  GPIO-Webinterface
+1.  <a href="https://www.raspberrypi.org/downloads/raspbian/">Raspian OS installed on SD card</href>
+2.  <a href="http://wiringpi.com/download-and-install/">WiringPi</href>
+3.  <a href="https://github.com/brainfoolong/gpio-webinterface">GPIO-Webinterface</href> by Brian Foo Long
 4.  python
