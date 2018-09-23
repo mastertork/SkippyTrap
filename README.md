@@ -1,5 +1,7 @@
 ![Alt Text](https://github.com/mastertork/SkippyTrap/blob/master/skippytraplogo.jpg)
 
+![Alt Text](https://github.com/mastertork/SkippyTrap/blob/master/skippytrapcontrols.jpg)
+
 This is still very much a work in progress.  I will update the code and wiki as I complete tasks on this project.
 
 ## Progress 
