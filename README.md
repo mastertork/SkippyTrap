@@ -1,9 +1,8 @@
-# SkippyTrap
-A web interface to control a humane live trap.
+![Alt Text](https://github.com/mastertork/SkippyTrap/blob/master/skippytraplogo.jpg)
 
 This is still very much a work in progress.  I will update the code and wiki as I complete tasks on this project.
 
-## Progress thus far 
+## Progress 
   - Uploaded initial Python Scripts
 
 ### Needed Hardware
