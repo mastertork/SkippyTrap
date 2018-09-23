@@ -1,8 +1,8 @@
-![Alt Text](https://github.com/mastertork/SkippyTrap/blob/master/skippytraplogo.jpg)
+<img src="https://github.com/mastertork/SkippyTrap/blob/master/skippytraplogo.jpg" height="300px">
 
-![Alt Text](https://github.com/mastertork/SkippyTrap/blob/master/skippytrapcontrols.jpg)
+<img src="https://github.com/mastertork/SkippyTrap/blob/master/skippytrapcontrols.jpg" height="665px">
 
-This is still very much a work in progress.  I will update the code and wiki as I complete tasks on this project.
+### This is still very much a work in progress.  I will update the code and wiki as I complete tasks on this project.
 
 ## Progress 
   - Uploaded initial Python Scripts
